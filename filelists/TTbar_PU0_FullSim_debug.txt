@@ -1,0 +1,1 @@
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/TTbar_PU0_fullProd_22Mar2018/TTbar_PU0_ntuple_1.root

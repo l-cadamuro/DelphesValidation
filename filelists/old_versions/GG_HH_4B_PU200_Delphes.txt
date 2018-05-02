@@ -1,0 +1,11 @@
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_0.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_1.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_2.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_3.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_4.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_5.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_6.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_7.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_8.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_9.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_GGHH4B200PU_10.root

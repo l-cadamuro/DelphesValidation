@@ -1,0 +1,11 @@
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_0.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_1.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_2.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_3.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_4.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_5.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_6.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_7.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_8.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_9.root
+/eos/cms/store/user/lcadamur/DelphesPhaseIITrees/GG_HH_4B/p2ntuple_GGHH4B200PU_10.root

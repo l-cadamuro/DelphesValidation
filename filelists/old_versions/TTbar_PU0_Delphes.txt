@@ -1,0 +1,13 @@
+#/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_0.root
+#/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_1.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_2.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_3.root
+#/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_4.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_5.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_6.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_7.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_8.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_9.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_10.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_11.root
+/afs/cern.ch/work/l/lcadamur/private/DelphesNtuplizerReInstall/CMSSW_9_3_2/src/PhaseTwoAnalysis/delphesInterface/ntupler/output/p2ntuple_TTbar0PU_12.root

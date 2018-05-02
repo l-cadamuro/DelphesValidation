@@ -1,0 +1,11 @@
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_1.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_2.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_3.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_4.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_5.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_6.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_7.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_8.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_9.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_10.root
+/afs/cern.ch/work/l/lcadamur/private/OLD_delphes_PhaseTwoAnalysis/DelphesNtuplizer/CMSSW_9_3_2/src/PhaseTwoAnalysis/NTupler/scripts/GG_HH_4B_PU200_v2/GG_HH_4B_PU200_ntuple_11.root
